@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 ### Hi there, I am Ashen Malaka 👋
 ![](https://komarev.com/ghpvc/?username=ashenmalaka)
 
@@ -46,3 +48,5 @@ Here are some ideas to get you started:
 - 🌱 Learning all about Proper Programming
 - 📫 Reach me: [linkedin/Ashen Malaka](https://www.linkedin.com/in/ashen-malaka-ranasinghe-4aaba3153/)
 - ⚡️ Fun fact: I'm a huge fan of James Bond
+
+-->
